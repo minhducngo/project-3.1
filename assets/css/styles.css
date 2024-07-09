@@ -1086,6 +1086,7 @@ a{
 }
 
 .footer__item {
+    font-family: "Public Sans", sans-serif;
     display: inline-block;
     margin-top: 20px;
     color:  #6A8383;
